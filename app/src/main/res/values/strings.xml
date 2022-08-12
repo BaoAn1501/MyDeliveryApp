@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MyDeliveryApp</string>
+    <string name="text_in_main_screen">By registering or logging in, you agree to the terms of service and privacy policy</string>
 </resources>
